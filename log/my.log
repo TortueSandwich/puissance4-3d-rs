@@ -1,18 +1,12 @@
-19:03:09 - INFO: Logger succesfully set
+21:05:37 - INFO: Logger succesfully set
 	Starting program . . .
-19:03:09 - INFO: Begin of the game
-19:03:18 - DEBUG: Adding player P1 at A0 [before]
-19:03:18 - DEBUG: Adding player P2 at B0 [before]
-19:03:19 - DEBUG: Adding player P1 at A1 [before]
-19:03:19 - DEBUG: Adding player P2 at C2 [before]
-19:03:21 - DEBUG: Adding player P1 at A1 [before]
-19:03:21 - DEBUG: Adding player P2 at C3 [before]
-19:03:21 - DEBUG: Adding player P1 at A2 [before]
-19:03:21 - DEBUG: Adding player P2 at D3 [before]
-19:03:23 - DEBUG: Adding player P1 at A2 [before]
-19:03:23 - DEBUG: Adding player P2 at D2 [before]
-19:03:24 - DEBUG: Adding player P1 at A2 [before]
-19:03:24 - DEBUG: Adding player P2 at D0 [before]
-19:03:30 - DEBUG: Adding player P1 at A2 [before]
-19:03:33 - INFO: End of the game
-19:03:33 - INFO: End of program
+21:05:37 - INFO: Begin of the game
+21:06:13 - DEBUG: Adding player P1 at A1 [before]
+21:06:13 - DEBUG: Adding player P2 at D1 [before]
+21:06:22 - DEBUG: Adding player P1 at A1 [before]
+21:06:22 - DEBUG: Adding player P2 at B2 [before]
+21:06:22 - DEBUG: Adding player P1 at A1 [before]
+21:06:22 - DEBUG: Adding player P2 at D3 [before]
+21:06:22 - DEBUG: Adding player P1 at A1 [before]
+21:06:25 - INFO: End of the game
+21:06:25 - INFO: End of program
